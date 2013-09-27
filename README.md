@@ -1,4 +1,3 @@
-
 Ruby Scripts
 ===============
 
@@ -7,7 +6,7 @@ A daily repository of the n00b sort.
 
 ### Zoid
 
-A *Hello World* Script..
+A Hello World Script
 
 
 ### Zoid-homedir
