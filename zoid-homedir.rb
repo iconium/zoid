@@ -14,7 +14,7 @@ print "Files Will Be Copied Into #{NewDir}\n\n\nShall zoid proceed with the file
 
 Confirm = gets.chomp
 
-#Creation of the New Directory to be included in conditional statement.....time for sleep
+#Creation of the New Directory to be included in conditional statement....eventually, currently doesn't care what you want.
 
 puts "\n \n \n"
 Dir.mkdir(HomeDir + '/' + ProvDir)
