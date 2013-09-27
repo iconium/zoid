@@ -1,3 +1,3 @@
-<h1> Ruby Scripts </h1>
+# Ruby Scripts 
 
-<p> A daily repository, of the n00b sort </p>
+###A daily repository, of the n00b sort
