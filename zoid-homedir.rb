@@ -10,7 +10,7 @@ NewDir  = HomeDir + '/' + ProvDir
 
 #Provide user with the full path of the newly created directory.
 puts "#{'-' * 30} \n \n \n"
-print "Files Will Be Copied Into A The New #{NewDir}\n\n\nShall zoid proceed with the file copy? (Enter yes or no): "
+print "Files Will Be Copied Into #{NewDir}\n\n\nShall zoid proceed with the file copy? (Enter yes or no): "
 
 Confirm = gets.chomp
 
