@@ -1,8 +1,0 @@
-{"ts":1380133320473,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1380133336726,"patch":[[{"diffs":[[1,"puts \"dog\""]],"start1":0,"start2":0,"length1":0,"length2":10}]],"length":10,"saved":false}
-{"ts":1380136427032,"patch":[[{"diffs":[[-1,"puts \"dog\""]],"start1":0,"start2":0,"length1":10,"length2":0}]],"length":0,"saved":false}
-{"ts":1380136970508,"patch":[[{"diffs":[[1,"require 'open-uri'\nopen(\"http://www.ruby-lang.org/\")"]],"start1":0,"start2":0,"length1":0,"length2":52}]],"length":52,"saved":false}
-{"ts":1380137038891,"patch":[[{"diffs":[[0,"g.org/\")"],[1," { |f|\nf.each_line {|line| p line}\n}"]],"start1":44,"start2":44,"length1":8,"length2":44}]],"length":88,"saved":false}
-{"ts":1380137162988,"patch":[[{"diffs":[[0," |f|"],[-1,"\nf.each_line {|line| p line}\n"],[0,"}"]],"start1":54,"start2":54,"length1":34,"length2":5}]],"length":59,"saved":false}
-{"ts":1380149582498,"patch":[[{"diffs":[[0,"g/\")"],[-1," { |f|}"]],"start1":48,"start2":48,"length1":11,"length2":4}]],"length":52,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1380151061060,"patch":[[{"diffs":[[-1,"require 'open-uri'\nopen(\"http://www.ruby-lang.org/\")"],[1,"puts \"Zoid Welcomes You\""]],"start1":0,"start2":0,"length1":52,"length2":24}]],"length":24,"saved":false}
